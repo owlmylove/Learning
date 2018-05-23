@@ -2,7 +2,7 @@ package com.java.rush.Level_2.Lesson_8;
 
 public class MinNumber4 {
     public static int min(int a, int b, int c, int d) {
-        //напишите тут ваш код
+        //Makin new changes to check git commit
 
     }
 
