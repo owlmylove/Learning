@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="451c76f4-f0de-4a37-9f57-50adc3dfa3e9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NewLifeProject/com/java/rush/Level_2/Lesson_8/MinNimber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinNumber.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MinNumber.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinNumber4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="170">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/print3.java" />
         <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNimber.java" />
         <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java" />
+        <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java" />
       </list>
     </option>
   </component>
@@ -109,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,6 +150,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
@@ -310,12 +305,13 @@
       <workItem from="1526994698162" duration="1140000" />
       <workItem from="1526999447902" duration="17266000" />
       <workItem from="1527057699458" duration="13783000" />
-      <workItem from="1527113240020" duration="228000" />
+      <workItem from="1527113240020" duration="824000" />
+      <workItem from="1527193448610" duration="2042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43022000" />
+    <option name="totallyTimeSpent" value="45660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1416" y="9" width="1393" height="847" extended-state="0" />
@@ -323,6 +319,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32786885" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -330,11 +327,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24836601" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24836601" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -348,7 +345,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32786885" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,6 +403,20 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -679,17 +689,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state>
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java">
+    <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
