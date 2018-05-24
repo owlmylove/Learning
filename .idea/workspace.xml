@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="451c76f4-f0de-4a37-9f57-50adc3dfa3e9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumberFour.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/NewLifeProject/com/java/rush/Level_2/Lesson_8/MinNimber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MinNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java">
+      <file leaf-file-name="MinNumberFour.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumberFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -81,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNimber.java" />
         <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber4.java" />
         <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumberFour.java" />
       </list>
     </option>
   </component>
@@ -94,8 +93,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1416" />
-    <option name="y" value="9" />
+    <option name="x" value="-1425" />
+    <option name="y" value="24" />
     <option name="width" value="1393" />
     <option name="height" value="847" />
   </component>
@@ -175,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinNumber">
+  <component name="RunManager" selected="Application.MinNumberFour">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java.lessons.CarToyotaMain.Main" />
       <module name="NewLifeProject" />
@@ -187,19 +186,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.rush.Level_2.Lesson_7.MethodCall" />
+    <configuration name="MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.rush.Level_2.Lesson_8.MinNumber" />
       <module name="NewLifeProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.rush.Level_2.Lesson_7.*" />
+          <option name="PATTERN" value="com.java.rush.Level_2.Lesson_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.rush.Level_2.Lesson_8.MinNumber" />
+    <configuration name="MinNumberFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.rush.Level_2.Lesson_8.MinNumberFour" />
       <module name="NewLifeProject" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -273,19 +272,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.MethodCall" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.MoonWeight" />
       <item itemvalue="Application.print3" />
       <item itemvalue="Application.MinNumber" />
+      <item itemvalue="Application.MinNumberFour" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinNumberFour" />
         <item itemvalue="Application.MinNumber" />
         <item itemvalue="Application.print3" />
         <item itemvalue="Application.MoonWeight" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MethodCall" />
       </list>
     </recent_temporary>
   </component>
@@ -306,28 +305,28 @@
       <workItem from="1526999447902" duration="17266000" />
       <workItem from="1527057699458" duration="13783000" />
       <workItem from="1527113240020" duration="824000" />
-      <workItem from="1527193448610" duration="2042000" />
+      <workItem from="1527193448610" duration="7067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45660000" />
+    <option name="totallyTimeSpent" value="50685000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1416" y="9" width="1393" height="847" extended-state="0" />
+    <frame x="-1425" y="24" width="1393" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32786885" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329235" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32786885" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -349,6 +348,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -380,7 +405,7 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -700,6 +725,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/rush/Level_2/Lesson_8/MinNumberFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
